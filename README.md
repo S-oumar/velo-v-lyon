@@ -96,7 +96,7 @@ Une ligne de résumé s'affiche, et les données sont ajoutées dans `data/`.
 
 ## Auteur
 
-**Mahamat Ali MOUNTASSIR**, étudiant en L3 Informatique à l'Université Claude Bernard Lyon 1.
+**SOULEYMANE oumar ahmat**, étudiant en L3 Informatique à l'Université Claude Bernard Lyon 1.
 
 - GitHub : [S-oumar](https://github.com/S-oumar)
 - E-mail : oumar.souleymane.tech@gmail.com
