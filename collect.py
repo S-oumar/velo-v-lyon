@@ -1,4 +1,6 @@
 import requests
+
+import time 
  
 from datetime import datetime, timezone 
  
@@ -21,8 +23,17 @@ COLUMNS = [
     "last_reported_utc",
 ]
  
- 
-reponse = requests.get(URL)
+
+
+for attempt in range(3):
+    try:
+        reponse = requests.get(URL, timeout=30)
+        reponse.raise_for_status()
+        break
+    except requests.RequestException:
+        if attempt == 2:
+            raise
+        time.sleep(10)
  
 content = reponse.json() 
  
