@@ -87,7 +87,7 @@ En cas de panne passagère (serveur qui ne répond pas, erreur interne de GitHub
 
 ```bash
 git clone https://github.com/S-oumar/velo-v-lyon.git
-cd velvo-lyon
+cd velo-v-lyon
 pip install requests
 python collect.py
 ```
