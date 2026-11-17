@@ -94,6 +94,11 @@ python collect.py
 
 Une ligne de résumé s'affiche, et les données sont ajoutées dans `data/`.
 
+## Pour aller plus loin
+
+- [Le sujet du projet](docs/SUJET.md), rédigé avant la première ligne de code.
+- [Le journal de bord](docs/JOURNAL.md) : l'avancement, les 8 décisions avec les options écartées et leurs raisons, et les observations (pannes, surprises dans les données).
+
 ## Auteur
 
 **SOULEYMANE Oumar Ahmat**, étudiant en L3 Informatique à l'Université Claude Bernard Lyon 1.
