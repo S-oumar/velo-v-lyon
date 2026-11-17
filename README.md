@@ -100,3 +100,4 @@ Une ligne de résumé s'affiche, et les données sont ajoutées dans `data/`.
 
 - GitHub : [S-oumar](https://github.com/S-oumar)
 - E-mail : oumar.souleymane.tech@gmail.com
+- Portfolio : [oumar-souleymane.web.app](https://oumar-souleymane.web.app)
